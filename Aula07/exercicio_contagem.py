@@ -2,7 +2,7 @@ contador = 0
 soma = 0
 
 
-for i in range(0, 100):
+for i in range(0, 101):
     if i % 2 != 0:
         print(i)
         contador = contador + 1
